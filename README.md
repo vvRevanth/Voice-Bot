@@ -1,4 +1,3 @@
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/b7637412-2bb9-4ee2-baaf-c3db3db82eb3" /># Voice-Bot
 This is a Voice bot.
 
 This is the link to open the website - https://voice-bot-hazel.vercel.app/
